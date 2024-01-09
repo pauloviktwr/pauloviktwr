@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pauloviktwr
 - 👀 I’m interested in Full Stack Development.
-- 🌱 I’m currently learning Java, SpringBoot, Javascript and Python.
+- 🌱 I’m currently learning Java, SpringBoot, Typescript, Angular and Python.
 
 <!---
 pauloviktwr/pauloviktwr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
