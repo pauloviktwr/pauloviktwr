@@ -1,4 +1,5 @@
-![hello+world+(0 42KB)_2](https://github.com/pauloviktwr/pauloviktwr/assets/127359543/8d5a9aa6-09e8-442b-a41f-a442db5ad617)
+![hello+world](https://github.com/pauloviktwr/pauloviktwr/assets/127359543/8d5a9aa6-09e8-442b-a41f-a442db5ad617)
+
 - 👋 Hi, I’m @pauloviktwr
 - 👀 I’m interested in Full Stack Development.
 - 🌱 I’m currently learning Java, SpringBoot, Typescript, Angular and Python.
