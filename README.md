@@ -1,4 +1,7 @@
-![hello+world](https://github.com/pauloviktwr/pauloviktwr/assets/127359543/8d5a9aa6-09e8-442b-a41f-a442db5ad617)
+<div align="center">
+<img src="https://github.com/pauloviktwr/pauloviktwr/assets/127359543/8d5a9aa6-09e8-442b-a41f-a442db5ad617" width="500px" alt="hello world"></div>
+
+</div>
 
 - 👋 Hi, I’m @pauloviktwr
 - 👀 I’m interested in Full Stack Development.
