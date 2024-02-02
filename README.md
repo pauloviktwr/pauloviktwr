@@ -1,6 +1,5 @@
 <div align="center">
-<img src="https://github.com/pauloviktwr/pauloviktwr/assets/127359543/8d5a9aa6-09e8-442b-a41f-a442db5ad617" width="500px" alt="hello world"></div>
-
+<img src="https://github.com/pauloviktwr/pauloviktwr/assets/127359543/d23d2603-38a9-43f4-9c99-5485c5ebe256" width="500px" alt="hello world"></div>
 </div>
 
 - 👋 Hi, I’m @pauloviktwr
