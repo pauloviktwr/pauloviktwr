@@ -11,7 +11,8 @@
 
 <div align="center">
   <a href="https://portfoliopvictor.vercel.app/" target="_blank">
-  <img src="https://github.com/pauloviktwr/pauloviktwr/assets/127359543/bf42646d-73f4-472b-a7ee-d6ca8aecd8fd">
+    <img src="https://github.com/pauloviktwr/pauloviktwr/assets/127359543/bf42646d-73f4-472b-a7ee-d6ca8aecd8fd">
+  </a>
 </div>
 
 <!---
