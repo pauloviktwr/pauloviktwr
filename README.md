@@ -6,11 +6,11 @@
 - 🌱 I’m currently learning Java/SpringBoot, Typescript/Angular and Python/Django.
 
 <div align="center">
-  <a href="https://portfoliopvictor.vercel.app/">This is my web portfolio </a>
+  <a href="https://portfoliopvictor.vercel.app/" target="_blank">This is my web portfolio</a>
 </div>
 
 <div align="center">
-  <a href="https://portfoliopvictor.vercel.app/">
+  <a href="https://portfoliopvictor.vercel.app/" target="_blank">
   <img src="https://github.com/pauloviktwr/pauloviktwr/assets/127359543/bf42646d-73f4-472b-a7ee-d6ca8aecd8fd">
 </div>
 
