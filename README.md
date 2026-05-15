@@ -50,7 +50,7 @@ Sou um desenvolvedor full stack com foco em aplicações Angular e Spring Boot. 
 
 ## 🚀 Projetos em destaque
 
-### 📚 Livros Web Application
+### 📚 [Livros Web Application](https://github.com/pauloviktwr/CrudSpringBoot-livros)
 Aplicação web para gerenciamento de acervos literários que foca na aplicação rigorosa de padrões de engenharia de software e testabilidade:
 
 - **Backend Robustecido:** Desenvolvido em Spring Boot 3 com arquitetura em camadas clara (Controller, Service, Repository).
@@ -59,7 +59,7 @@ Aplicação web para gerenciamento de acervos literários que foca na aplicaçã
 - **Qualidade de Código:** Cobertura de 100% de testes unitários na camada Service utilizando **JUnit 5** e **Mockito**, com validação de cenários de erro, caminhos felizes e controle estrito de interações (*edge cases* tratados com `never()`).
 - **Interface Integrada:** Renderização dinâmica via servidor utilizando Thymeleaf, Bootstrap e CSS.
 
-### 🌉 Bridge Relay
+### 🌉 [Bridge Relay (Latent-Relay)](https://github.com/pauloviktwr/Latent-Relay)
 Aplicação full stack em desenvolvimento com foco em integração entre frontend Angular e backend Spring Boot.
 
 - Frontend Angular com navegação entre `devices`, `places` e `data`
