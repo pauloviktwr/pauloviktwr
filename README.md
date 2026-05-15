@@ -32,6 +32,7 @@ Sou um desenvolvedor full stack com foco em aplicações Angular e Spring Boot. 
 ### **Bancos de dados**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8.0+-blue?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### **Testes e automação**
 
@@ -47,32 +48,32 @@ Sou um desenvolvedor full stack com foco em aplicações Angular e Spring Boot. 
 
 ---
 
-## 🚀 Projeto em destaque
+## 🚀 Projetos em destaque
 
-### Bridge Relay
-Aplicação full stack em desenvolvimento que combina:
+### 📚 Livros Web Application
+Aplicação web para gerenciamento de acervos literários que foca na aplicação rigorosa de padrões de engenharia de software e testabilidade:
+
+- **Backend Robustecido:** Desenvolvido em Spring Boot 3 com arquitetura em camadas clara (Controller, Service, Repository).
+- **Segurança de Tráfego:** Uso sistemático de Java Records (DTOs) para blindar a entrada de dados e isolar as entidades JPA.
+- **Validação de Dados:** Consistência robusta com Bean Validation (`@NotBlank`, `@Size`) integrada às Views.
+- **Qualidade de Código:** Cobertura de 100% de testes unitários na camada Service utilizando **JUnit 5** e **Mockito**, com validação de cenários de erro, caminhos felizes e controle estrito de interações (*edge cases* tratados com `never()`).
+- **Interface Integrada:** Renderização dinâmica via servidor utilizando Thymeleaf, Bootstrap e CSS.
+
+### 🌉 Bridge Relay
+Aplicação full stack em desenvolvimento com foco em integração entre frontend Angular e backend Spring Boot.
 
 - Frontend Angular com navegação entre `devices`, `places` e `data`
-- Backend Spring Boot com APIs REST
-- Persistência em PostgreSQL
-- Layout responsivo usando Bootstrap
+- Backend Spring Boot com endpoints REST em construção
+- Estrutura de persistência planejada para PostgreSQL
+- Layout responsivo baseado em Bootstrap e cards de navegação
 
 O projeto demonstra principalmente:
 
-- Arquitetura em camadas
-- Componentização e roteamento Angular
-- Integração frontend/backend
-- Validação e tratamento de dados no backend
-
----
-
-## 📌 Como trabalho
-
-- Estruturo aplicações com separação clara de responsabilidades
-- Uso componentes e services para manter o frontend sustentável
-- Crio APIs REST consistentes e fáceis de consumir
-- Implanto validações e testes desde as primeiras etapas
-- Priorizo documentação clara e processos replicáveis
+- Organização inicial de frontend com componentes standalone
+- Roteamento Angular e uso de grid Bootstrap
+- Backend estruturado com controllers, services e DTOs
+- Integração entre frontend e backend em andamento
+- Planejamento para estados de carregamento, erros e testes
 
 ---
 
@@ -80,8 +81,7 @@ O projeto demonstra principalmente:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/28paulovictor/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:paulosantos301194@gmail.com
-.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+  <a href="mailto:paulosantos301194@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
 </p>
 
 ---
