@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou um desenvolvedor full stack com foco em aplicações Angular e Spring Boot. Meu trabalho é entregar soluções escaláveis, integradas e bem organizadas, com atenção especial à arquitetura em camadas, testes e boas práticas.
+Sou um desenvolvedor full stack com foco em aplicações Angular e Spring Boot.
 
 ---
 
@@ -51,12 +51,12 @@ Sou um desenvolvedor full stack com foco em aplicações Angular e Spring Boot. 
 ## 🚀 Projetos em destaque
 
 ### 📚 [Livros Web Application](https://github.com/pauloviktwr/CrudSpringBoot-livros)
-Aplicação web para gerenciamento de acervos literários que foca na aplicação rigorosa de padrões de engenharia de software e testabilidade:
+Aplicação web para gerenciamento de acervo de livros que foca na aplicação de padrões de engenharia de software e testabilidade:
 
-- **Backend Robustecido:** Desenvolvido em Spring Boot 3 com arquitetura em camadas clara (Controller, Service, Repository).
+- **Backend:** Desenvolvido em Spring Boot 3 com arquitetura em camadas clara (Controller, Service, Repository).
 - **Segurança de Tráfego:** Uso sistemático de Java Records (DTOs) para blindar a entrada de dados e isolar as entidades JPA.
-- **Validação de Dados:** Consistência robusta com Bean Validation (`@NotBlank`, `@Size`) integrada às Views.
-- **Qualidade de Código:** Cobertura de 100% de testes unitários na camada Service utilizando **JUnit 5** e **Mockito**, com validação de cenários de erro, caminhos felizes e controle estrito de interações (*edge cases* tratados com `never()`).
+- **Validação de Dados:** Consistência com Bean Validation (`@NotBlank`, `@Size`) integrada às Views.
+- **Qualidade de Código:** Cobertura de 100% de testes unitários na camada Service utilizando **JUnit 5** e **Mockito**, com validação de cenários de erro, caminhos felizes e controle estrito de interações.
 - **Interface Integrada:** Renderização dinâmica via servidor utilizando Thymeleaf, Bootstrap e CSS.
 
 ### 🌉 [Bridge Relay (Latent-Relay)](https://github.com/pauloviktwr/Latent-Relay)
