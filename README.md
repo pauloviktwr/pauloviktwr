@@ -6,7 +6,7 @@
 ## 🛠️ Competências Técnicas
 
 ### ☕ Backend Java
-* ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white) **Java + Spring Boot:** APIs REST, injeção de dependência, Spring Data JPA, transações e arquitetura em camadas.
+* ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white) **Java + Spring Boot:** APIs REST, Spring Data JPA, e arquitetura em camadas.
 * ![SpringDoc](https://img.shields.io/badge/SpringDoc-6DB33F?style=flat&logo=spring&logoColor=white) **OpenAPI / Swagger:** Documentação automática de APIs e contrato de integração estável.
 * ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white) ![Mockito](https://img.shields.io/badge/Mockito-3F3F3F?style=flat&logo=mockito&logoColor=white) **Testes Automatizados:** cobertura de serviço com testes unitários, mocks e validação de comportamentos.
 * ![Hibernate](https://img.shields.io/badge/Hibernate-004C97?style=flat&logo=hibernate&logoColor=white) **JPA / Hibernate:** modelagem de entidades, persistência relacional.
