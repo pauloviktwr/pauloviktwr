@@ -1,5 +1,5 @@
 # Paulo Victor
-**Desenvolvedor de Software Full Stack | Java (Spring Boot) & TypeScript (Angular)**
+**Desenvolvedor Full Stack | Java (Spring Boot) & TypeScript (Angular)**
 
 ---
 
